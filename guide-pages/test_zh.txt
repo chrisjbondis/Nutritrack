@@ -1,0 +1,20 @@
+Input lines: 6, Output lines: 6
+
+EN: Nutrient Gaps by Life Stage
+ZH: 按生命阶段划分的营养缺口
+
+EN: From birth to old age, different life stages demand completely different nutrients.
+ZH: 从出生到老年，不同的生命阶段需要完全不同的营养素。
+
+EN: Critical for brain and body development.
+ZH: 对大脑和身体发育至关重要。
+
+EN: Open Free App
+ZH: 打开免费应用程序
+
+EN: Jump to a guide
+ZH: 跳转至指南
+
+EN: Iron - menstrual losses mean women need nearly double the iron of men
+ZH: 铁——月经损失意味着女性需要的铁几乎是男性的两倍
+

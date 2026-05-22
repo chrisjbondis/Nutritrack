@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+
+# Build output (generated — deploy from server directly)
+dist/
+budget-nutrition-au-project/dist/
+
+# Generated file — built by build_v2.py from budget-nutrition-app-LATEST.jsx
+budget-nutrition-au-project/src/App.jsx
+
+# SSH keys — NEVER commit these
+*.key
+*.pem
+
+# Deploy zips — one-off artifacts, not source
+*.zip
+
+# Manual backups — git history replaces these
+*backup*.jsx
+*backup*.bak
+*.bak.jsx
+*.bak
+
+# Old/duplicate source versions (keep only LATEST)
+budget-nutrition-app.jsx
+App-with-feedback-form.jsx
+budget-nutrition-app-PRODUCTION-READY.jsx
+budget-nutrition-app-v3-nrv-exercise.jsx
+
+# Docs and media (large binaries — not code)
+*.epub
+*.docx
+*.mp3
+*.mp4
+
+# Preview/scratch HTML files
+budget-nutrition-preview.html
+country-picker-preview.html
+font-preview.html
+planner-preview.html
+theme-preview.html
+ui-preview.html
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Misc
+.DS_Store
+Thumbs.db
+test_write.txt
+zig46cKw
+VERSION-LOG.txt
